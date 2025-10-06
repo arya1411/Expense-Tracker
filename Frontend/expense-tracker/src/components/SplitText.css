@@ -1,0 +1,21 @@
+.split-text {
+  display: inline-block;
+  white-space: pre;
+}
+
+.split-text-letter {
+  display: inline-block;
+  animation: flipContinuous 3s cubic-bezier(0.34, 1.56, 0.64, 1) infinite;
+  transform-origin: 50% 100%;
+}
+
+@keyframes flipContinuous {
+  0%, 100% {
+    opacity: 1;
+    transform: translateY(0) rotateX(0deg);
+  }
+  50% {
+    opacity: 0.3;
+    transform: translateY(-10px) rotateX(90deg);
+  }
+}
