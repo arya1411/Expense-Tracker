@@ -178,6 +178,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+--------------------------------------- DEMO ---------------------------------------
+
+<img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/0e7088b9-e752-4d69-b14e-3955e524e7ce" />
+<img width="1914" height="926" alt="image" src="https://github.com/user-attachments/assets/ae879aee-5d53-4f1d-944e-7abc0d958997" />
+<img width="1888" height="919" alt="image" src="https://github.com/user-attachments/assets/ea74dc9c-07f4-42ee-931c-294cfa37403a" />
+<img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/63797c17-9ad7-48b8-a99b-d0065167c47d" />
+<img width="1906" height="923" alt="image" src="https://github.com/user-attachments/assets/53c59b88-8328-46d1-aca0-011558d21154" />
+
+
+
+
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -194,5 +206,8 @@ This project is open source and available under the [MIT License](LICENSE).
 - UI components inspired by modern design principles
 
 ---
+
+
+
 
 Made with ❤️ by Arya
