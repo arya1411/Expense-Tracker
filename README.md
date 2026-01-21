@@ -81,6 +81,7 @@ npm start
 ```bash
 cd Frontend/expense-tracker
 npm install
+npm run dev
 ```
 
 Create a `.env` file in the Frontend/expense-tracker directory (if needed):
