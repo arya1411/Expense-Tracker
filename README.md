@@ -87,12 +87,12 @@ npm run dev
 Create a `.env` file in the Frontend/expense-tracker directory (if needed):
 ```env
 VITE_API_URL=http://localhost:5000
-```
+``````
 
 Start the frontend development server:
 ```bash
 npm run dev
-```
+`````
 
 ## 🚦 Running the Application
 
